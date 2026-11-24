@@ -1,0 +1,34 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private personality configuration
+ciel/personality.txt
+
+# Personal memories and databases
+memories.json
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Downloaded AI models
+*.gguf
+models/
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
+
+
+# Ciel local data
+CielData/
+**/memories.json
