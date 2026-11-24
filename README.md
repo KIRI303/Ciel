@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux-green.svg)
+![AI](https://img.shields.io/badge/AI-llama.cpp-orange.svg)
+![Status](https://img.shields.io/badge/Status-In%20Development-purple.svg)
+
 # Ciel
 
 <p align="center">
